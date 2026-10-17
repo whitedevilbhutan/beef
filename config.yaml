@@ -16,8 +16,8 @@ beef:
 
     # Credentials to authenticate in BeEF.
     credentials:
-        user: "beef"
-        passwd: "beef123"
+        user: "admin"
+        passwd: "password123"
 
     # Interface / IP restrictions
     restrictions:
@@ -81,7 +81,7 @@ beef:
     extension:
         admin_ui:
             enable: true
-            base_path: "/ui"
+            base_path: "/panel"
         demos:
             enable: true
         events:
