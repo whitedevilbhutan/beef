@@ -17,7 +17,7 @@ beef:
     # Credentials to authenticate in BeEF.
     credentials:
         user: "beef"
-        passwd: "beef"
+        passwd: "beef123"
 
     # Interface / IP restrictions
     restrictions:
